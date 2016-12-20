@@ -1,0 +1,14 @@
+{
+  "name": "create-multi-window-electron-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adriel Cardoso",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.28.3"
+  }
+}
